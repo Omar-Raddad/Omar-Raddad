@@ -56,11 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Omar-Raddad/Omar-Raddad/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/omar-raddad-649422288" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -74,7 +70,16 @@
 
 ###
 
-<div align="center">
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Raddad&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Raddad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Omar-Raddad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=Omar-Raddad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://profile-counter.glitch.me/Omar-Raddad/count.svg?"  />
 </div>
 
