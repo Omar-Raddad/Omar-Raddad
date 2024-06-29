@@ -56,7 +56,11 @@
 
 ###
 
-<div align="left">
+<img src="https://raw.githubusercontent.com/Omar-Raddad/Omar-Raddad/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
   <a href="www.linkedin.com/in/omar-raddad-649422288" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -66,6 +70,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Omar-Raddad/count.svg?"  />
 </div>
 
 ###
